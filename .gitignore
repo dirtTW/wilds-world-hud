@@ -1,0 +1,13 @@
+﻿# game install artefacts
+reframework/plugins/
+*.log
+*.dmp
+*.zip
+
+# python
+__pycache__/
+*.pyc
+
+# OS
+Thumbs.db
+.DS_Store
